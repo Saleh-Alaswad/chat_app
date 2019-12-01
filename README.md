@@ -1,4 +1,4 @@
-# el_chat
+# elChat (Chat App)
 
 One to One Chat App created with Flutter and Firebase for both iOS and Android
 
